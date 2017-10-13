@@ -1,11 +1,7 @@
 fileFormatVersion: 2
 guid: f459a056f100fd84c91662e0cfcf6dec
 folderAsset: yes
-<<<<<<< HEAD:Assets/Scripts/Species.meta
-timeCreated: 1507861204
-=======
 timeCreated: 1507778830
->>>>>>> f27b96df2bf6f77721a0fb1d6093a8688f79d82f:Assets/Standard Assets.meta
 licenseType: Free
 DefaultImporter:
   externalObjects: {}

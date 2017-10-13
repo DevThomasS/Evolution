@@ -11,8 +11,16 @@ public class generate : MonoBehaviour
     public GameObject Desert;
     // public GameObject Lake;
     public GameObject Ocean;
+<<<<<<< HEAD
     PerlinNoise noise;
     void Start()
+=======
+    public GameObject species;
+   PerlinNoise noise;
+    public Species speciesVariable;
+
+    public void MakeMap()
+>>>>>>> f27b96df2bf6f77721a0fb1d6093a8688f79d82f
     {
         noise = new PerlinNoise(Random.Range(0,1000000));
         Regen();
